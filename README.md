@@ -1,2 +1,5 @@
 # ML Suspicious Login Detector
-EAS 510 Course Project, using machine learning algorithms in cybersecurity, specifically to detect suspicious logins
+**Name:** Josh Philip | EAS 510 Project 2
+
+Supervised ML to detect account takeover logins using the RBA dataset (Zenodo).
+Status: in progress (interim milestone). Final report will be `report.md`.
