@@ -1,0 +1,11 @@
+Total rows: 31,269,264
+Is Account Takeover=True: 141 | False: 31,269,123 | rate: 0.00045092%
+
+Columns: index, Login Timestamp, User ID, Round-Trip Time [ms], IP Address, Country, Region, City, ASN, User Agent String, Browser Name and Version, OS Name and Version, Device Type, Login Successful, Is Attack IP, Is Account Takeover
+
+Missing values per column (of 31,269,264 rows):
+Round-Trip Time [ms]  29,993,329
+Region                47,409
+City                  8,590
+Device Type           1,526
+All other columns     0
